@@ -6,3 +6,4 @@ hahhaha success
 this is my first git file
 hahhahahahahahahhahahahaha
 jjijijijijijijijijijijijij
+Creating a new branch is quick AND simple.
