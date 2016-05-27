@@ -8,9 +8,4 @@ hahhahahahahahahhahahahaha
 jjijijijijijijijijijijijij
 Creating a new branch is quick AND simple.
 tennnnnnn
-<<<<<<< HEAD
-tennnnnnntennnnnnngit
-=======
-tennnnnnntennnnnnn
-zzzzzzzzzzzzgitigit
->>>>>>> dev
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
